@@ -56,6 +56,7 @@ Botão sair:
 O jogo, como dito anteriormente, foi idealizado em 8 pequenas fases que narram a trajetória de Capivarildo de volta ao seu lar. Cada fase se passa em um diferente cenário.
 <br>
 As fases são organizadas nas seguintes categorias:
+<br>
 <li>Ambientação inicial</li>
 Acontecimentos que precedem a fase
 <li>Objetivo</li>
