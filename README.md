@@ -20,11 +20,10 @@ O jogo é idealizado para ser acessível para pessoas com deficiência visual e 
 <li>As fases indicarão as teclas correspondentes às ações que serão realizadas pelos jogadores</li>
 <li>Presença de respostas sonoras que indicarão a posição dos obstáculos/itens/momento da movimentação/ação corretamente executada/ação incorretamente executada</li>
 <li>Presença de respostas visuais que indicarão a posição dos obstáculos/itens/momento da movimentação/ação corretamente executada/ação incorretamente executada</li>
-<br><br>
+<br>
 <h2>Exemplo</h2>
 <img width="396" alt="image" src="https://user-images.githubusercontent.com/102993778/179447887-0c335afe-f1aa-48df-8ad3-49a63fe4299e.png">
 <img width="580" alt="image" src="https://user-images.githubusercontent.com/102993778/179448390-011de8a8-d8e5-40a0-a2d4-5a4c19edd459.png">
-<br>
 O obstáculo terá sua posição indicada visualmente e através dos sons emitidos. O obstáculo arremessado na parte de cima emitirá um som X enquanto o obstáculo arremessado na parte de baixo emitirá um som Y. Essa funcionalidade utilizando sons também terá um indicativo de tempo para a realização da ação. Ou seja, a tecla indicada de acordo com o som só deve ser clicada após o intervalo de tempo indicado na fase. EX: se o tempo definido for de 1s, a tecla deverá ser pressionada 1s após o som ser emitido, conforme mostra a imagem.
 
 
