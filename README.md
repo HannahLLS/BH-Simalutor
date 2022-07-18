@@ -3,6 +3,19 @@
 <h1>Descrição do jogo</h1> 
 O jogo BH Simulator se passa na região metropolitana de Belo Horizonte e tem as suas fases inspiradas em locais conhecidos da cidade. A gameplay do jogo se baseia na aventura do nosso protagonista, uma capivara, que após cair na Lagoa da Pampulha acaba se teletransportando para um lugar distante. Seu objetivo é retornar ao seu ponto inicial, a Pampulha.
 
+<h1>Proposta do jogo</h1> 
+A proposta de "BH Simulator" é a criação de um jogo acessível e que traga lugares conhecidos da Grande BH como forma de causar identificação por parte do público em relação aos desafios vividos pelo protagonista. 
+
+<h1>Acessibilidade</h1> 
+O jogo é idealizado para ser acessível para pessoas com deficiência visual e deficiência auditiva. A proposta de acessibilidade do projeto é fazer com que o jogo sofra o mínimo de alterações para os diferentes públicos e que as ferramentas de acessibilidade sejam, na verdade, complementares umas às outras, buscando a proporcionar o experiência mais próxima para todos os usuários.
+
+<h2>Ferramentas de acessibilidade</h2>
+<li>Opção de alto contraste</li>
+<li>Instruções sonoras e visuais das ações do jogo</li>
+<li>Tutorial explicativo sobre as mecânicas do jogo</li>
+
+
+
 <h1>Menu</h1>
 A tela de Menu apresenta 6 botões clicáveis sendo eles:
 
