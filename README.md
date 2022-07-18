@@ -99,7 +99,7 @@ Estação Cidade Industrial
 <li>Conclusão</li>
 Ao vencer o vilão, nosso personagem se dirige para a próxima fase: em busca de comida. Caso não consiga desviar das 17 facas e perca, a fase é reiniciada.
 <br>
-Esquematização da fase:
+Esquematização da fase no item <a href="https://github.com/HannahLLS/BH-Simulator/blob/main/README.md#mec%C3%A2nica">
 <br>
 
 
