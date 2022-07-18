@@ -16,6 +16,13 @@ O jogo é idealizado para ser acessível para pessoas com deficiência visual e 
 
 <h1>Mecânica</h1> 
 "BH Simulator" é um jogo de plataforma que seguirá mecânicas ligeiramente diferentes a cada fase e terá duas categorias de fases: fases com embate direto com o vilão e fases de coleta de itens/embate indireto com o vilão.
+<br><br>
+<li>As fases indicarão as teclas correspondentes às ações que serão realizadas pelos jogadores</li>
+<li>Presença de respostas sonoras que indicarão a posição dos obstáculos/itens/momento da movimentação/ação corretamente executada/ação incorretamente executada</li>
+<li>Presença de respostas visuais que indicarão a posição dos obstáculos/itens/momento da movimentação/ação corretamente executada/ação incorretamente executada</li>
+<br><br>
+<h2>Exemplo</h2>
+<img: src="image.png">
 
 <h1>Menu</h1>
 A tela de Menu apresenta 6 botões clicáveis sendo eles:
