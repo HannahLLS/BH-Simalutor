@@ -21,8 +21,8 @@ Botão iniciar:
 ![image](https://user-images.githubusercontent.com/87147025/172287596-8d3a4c26-22f3-4e45-9c42-16f396e02c7a.png)
 
 
-Botão tutorial:
-![image](https://user-images.githubusercontent.com/87147025/172287899-06b244fa-ba7c-444f-8698-91b0b0f8474a.png)
+
+![Botão tutorial](https://user-images.githubusercontent.com/87147025/172287899-06b244fa-ba7c-444f-8698-91b0b0f8474a.png)
 
 
 Botão créditos:
