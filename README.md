@@ -120,6 +120,8 @@ Lanchonete Contagense
 Depos de se alimentar, Capivarildo pede ajuda a um morador da cidade para voltar até a Pampulha. Caso não consiga recolher a quantidade mínima, a fase é reiniciada.
 <br>
 Esquematização da fase:
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/102993778/179449718-da54446a-c7dc-4ce0-8db2-da4dbed7ad1b.png">
+
 
 
 <br>
@@ -141,6 +143,7 @@ Estação Eldorado
 Caso consiga juntar pelo menos 60 cartões, Capivarildo entrará no ônibus e seguirá viagem. Se não conseguir, o ônibus atropela o personagem e a fase é reiniciada.
 <br>
 Esquematização da fase:
+<img width="238" alt="image" src="https://user-images.githubusercontent.com/102993778/179449736-de97714e-007b-4cf5-87a7-1435a41b9464.png">
 
 
 <br>
