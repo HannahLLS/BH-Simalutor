@@ -53,7 +53,7 @@ Botão sair:
 ![image](https://user-images.githubusercontent.com/87147025/172288426-1adc940f-401d-483a-855c-a2905825a843.png)
 
 <h1>Fases</h1>
-O jogo, como dito anteriormente, foi idealizado em 8 pequenas fases que narram a trajetória de Capivarildo de volta ao seu lar. Cada fase se passa em um diferente cenário.
+O jogo, como dito anteriormente, foi idealizado em 8 pequenas fases que narram a trajetória de Capivarildo de volta ao seu lar. Cada fase se passa em um diferente cenário.<br>
 <br>
 As fases são organizadas nas seguintes categorias:
 <br>
