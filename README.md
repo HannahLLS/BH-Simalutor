@@ -84,7 +84,21 @@ Ambiente da fase
 Acontecimentos que procedem a fase
 
 <h2>Fase 1 - Estação Cidade Industrial</h2>
-Esquematização da fase:<br>
+<li>Ambientação inicial</li>
+O personagem, após ser teletransportado, é abordado por um assaltante.
+<li>Objetivo</li>
+Após ser abordado, o objetivo do nosso personagem, nessa fase inicial, é desviar das facas atiradas pelo vilão. Para progredir no jogo, ele deve desviar de, no mínimo, 17 facas das 20 arremessadas.
+<li>Vilão/Coleta</li>
+Ladrão da estação
+<li>Quantidade de vidas</li>
+4 vidas
+<li>Obstáculos/Itens</li>
+20 facas
+<li>Cenário</li>
+Estação Cidade Industrial
+<li>Conclusão</li>
+Ao vencer o vilão, nosso personagem se dirige para a próxima fase: em busca de comida. Caso não consiga desviar das 17 facas e perca, a fase é reiniciada.
+<br>
 
 
 <h2>Fase 2 - "Lanchonete Contagense"</h2>
