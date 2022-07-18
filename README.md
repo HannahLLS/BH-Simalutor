@@ -88,7 +88,7 @@ Acontecimentos que procedem a fase
 O personagem, após ser teletransportado, é abordado por um assaltante.
 <li>Objetivo</li>
 Após ser abordado, o objetivo do nosso personagem, nessa fase inicial, é desviar das facas atiradas pelo vilão. Para progredir no jogo, ele deve desviar de, no mínimo, 17 facas das 20 arremessadas.
-<li><strong>Vilão/Coleta</strong></li>
+<li>Vilão/Coleta</li>
 Ladrão da estação
 <li>Quantidade de vidas</li>
 4 vidas
@@ -99,13 +99,51 @@ Estação Cidade Industrial
 <li>Conclusão</li>
 Ao vencer o vilão, nosso personagem se dirige para a próxima fase: em busca de comida. Caso não consiga desviar das 17 facas e perca, a fase é reiniciada.
 <br>
+Esquematização da fase:
+<br>
 
 
 <h2>Fase 2 - "Lanchonete Contagense"</h2>
+<li>Ambientação inicial</li>
+Quando consegue escapar das facas do ladrão, o personagem caminha até a lanchonete mais próxima na cidade de Contagem para poder se alimentar.
+<li>Objetivo</li>
+O personagem deve coletar no mínimo 13 paẽs de queijo dos 15 que estiverem caindo para finalizar a fase.
+<li>Vilão/Coleta</li>
+O personagem deve coletar 13 paẽs de queijo
+<li>Quantidade de vidas</li>
+3 vidas
+<li>Obstáculos/Itens</li>
+15 pães de queijo
+<li>Cenário</li>
+Lanchonete Contagense
+<li>Conclusão</li>
+Depos de se alimentar, Capivarildo pede ajuda a um morador da cidade para voltar até a Pampulha. Caso não consiga recolher a quantidade mínima, a fase é reiniciada.
+<br>
+Esquematização da fase:
 
+
+<br>
 
 <h2>Fase 3 - Estação Eldorado</h2>
+<li>Ambientação inicial</li>
+Capivarildo caminha até a estação eldorado para assim pegar o ônibus que o levará de volta para casa: o move 518R. 
+<li>Objetivo</li>
+É necessária a realização da coleta de de 60 cartões ótimos dentre os que estarão espalhados no cenário.
+<li>Vilão/Coleta</li>
+O vilão será o ônibus que está vindo em sua direção e a coleta será dos cartões para o embarque.
+<li>Quantidade de vidas</li>
+1 vida
+<li>Obstáculos/Itens</li>
+O obstáculo da fase é o 518R correndo atrás do personagem enquanto ele recolhe os cartões.
+<li>Cenário</li>
+Estação Eldorado
+<li>Conclusão</li>
+Caso consiga juntar pelo menos 60 cartões, Capivarildo entrará no ônibus e seguirá viagem. Se não conseguir, o ônibus atropela o personagem e a fase é reiniciada.
+<br>
+Esquematização da fase:
 
+
+<br>
 
 <h2>Fase 4 - Bairro da Lagoinha</h2>
 Em desenvolvimento
