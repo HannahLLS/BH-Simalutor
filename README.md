@@ -33,6 +33,8 @@ Menu:
 <br>
 ![image](https://user-images.githubusercontent.com/87147025/172286785-ff84cd25-38d3-44c0-a7f1-e599001fe95d.png)
 
+<img src="https://user-images.githubusercontent.com/87147025/172286785-ff84cd25-38d3-44c0-a7f1-e599001fe95d.png" width="50%" height="50%">
+
 Botão iniciar:
 <br>
 ![image](https://user-images.githubusercontent.com/87147025/172287596-8d3a4c26-22f3-4e45-9c42-16f396e02c7a.png)
