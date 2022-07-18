@@ -1,9 +1,8 @@
 # BH-Simulator
 
-Descrição do jogo: O jogo BH Simulator se passa na região metropolitana de Belo Horizonte e tem as suas fases inspiradas em locais conhecidos da cidade. A gameplay do jogo se baseia na aventura do nosso protagonista, uma capivara, que após cair na Lagoa da Pampulha acaba se teletransportando para um lugar distante. Seu objetivo é retornar ao seu ponto inicial, a Pampulha.
+<h1>Descrição do jogo</h1> O jogo BH Simulator se passa na região metropolitana de Belo Horizonte e tem as suas fases inspiradas em locais conhecidos da cidade. A gameplay do jogo se baseia na aventura do nosso protagonista, uma capivara, que após cair na Lagoa da Pampulha acaba se teletransportando para um lugar distante. Seu objetivo é retornar ao seu ponto inicial, a Pampulha.
 
-<h1>Menu
-  </h1>
+<h1>Menu</h1>
 A tela de Menu apresenta 6 botões clicáveis sendo eles:
 
 Iniciar: O botão iniciar é responsável por começar a gameplay.
@@ -32,4 +31,6 @@ Botão créditos:
 
 Botão sair:
 ![image](https://user-images.githubusercontent.com/87147025/172288426-1adc940f-401d-483a-855c-a2905825a843.png)
+
+<h1>Menu</h1>
 
