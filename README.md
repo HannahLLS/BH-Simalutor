@@ -88,7 +88,7 @@ Acontecimentos que procedem a fase
 O personagem, após ser teletransportado, é abordado por um assaltante.
 <li>Objetivo</li>
 Após ser abordado, o objetivo do nosso personagem, nessa fase inicial, é desviar das facas atiradas pelo vilão. Para progredir no jogo, ele deve desviar de, no mínimo, 17 facas das 20 arremessadas.
-<li>Vilão/Coleta</li>
+<li><strong>Vilão/Coleta</strong></li>
 Ladrão da estação
 <li>Quantidade de vidas</li>
 4 vidas
