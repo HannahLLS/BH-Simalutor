@@ -54,18 +54,44 @@ Botão sair:
 
 <h1>Fases</h1>
 O jogo, como dito anteriormente, foi idealizado em 8 pequenas fases que narram a trajetória de Capivarildo de volta ao seu lar. Cada fase se passa em um diferente cenário.
+<br>
+As fases são organizadas nas seguintes categorias:
+<li>Ambientação inicial</li>
+Acontecimentos que precedem a fase
+<li>Objetivo</li>
+Propósito da fase
+<li>Vilão/Coleta</li>
+ESpecificação do antagonista da fase ou da coleta de itens
+<li>Quantidade de vidas</li>
+Vidas disponíveis na fase
+<li>Obstáculos/Itens</li>
+Especificação dos obstáculos ou itens a serem coletados
+<li>Cenário</li>
+Ambiente da fase
+<li>Conclusão</li>
+Acontecimentos que procedem a fase
+
 <h2>Fase 1 - Estação Cidade Industrial</h2>
+Esquematização da fase:<br>
+
 
 <h2>Fase 2 - "Lanchonete Contagense"</h2>
 
+
 <h2>Fase 3 - Estação Eldorado</h2>
 
+
 <h2>Fase 4 - Bairro da Lagoinha</h2>
+Em desenvolvimento
 
 <h2>Fase 5 - Oiapoque</h2>
+Em desenvolvimento
 
 <h2>Fase 6 - Parque Municipal</h2>
+Em desenvolvimento
 
 <h2>Fase 7 - Ratanabá</h2>
+Em desenvolvimento
 
 <h2>Fase 8 - Pirâmides de Ratanabá</h2>
+Em desenvolvimento
