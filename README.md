@@ -23,6 +23,8 @@ O jogo é idealizado para ser acessível para pessoas com deficiência visual e 
 <br><br>
 <h2>Exemplo</h2>
 <img width="396" alt="image" src="https://user-images.githubusercontent.com/102993778/179447887-0c335afe-f1aa-48df-8ad3-49a63fe4299e.png">
+<img width="580" alt="image" src="https://user-images.githubusercontent.com/102993778/179448390-011de8a8-d8e5-40a0-a2d4-5a4c19edd459.png">
+
 
 
 <h1>Menu</h1>
