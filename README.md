@@ -31,12 +31,10 @@ Os botões ficam de cores diferentes quando pressionados, facilitando na diferen
 
 Menu:
 <br>
-
 <img src="https://user-images.githubusercontent.com/87147025/172286785-ff84cd25-38d3-44c0-a7f1-e599001fe95d.png" width="50%" height="50%">
 
 Botão iniciar:
 <br>
-
 <img src="https://user-images.githubusercontent.com/87147025/172287596-8d3a4c26-22f3-4e45-9c42-16f396e02c7a.png" width="50%" height="50%">
 
 
@@ -47,12 +45,13 @@ Botão tutorial:
 
 Botão créditos:
 <br>
-![image](https://user-images.githubusercontent.com/87147025/172288284-ef1f9f3f-52c1-418f-8169-b9fbc9506094.png)
+<img src="https://user-images.githubusercontent.com/87147025/172288284-ef1f9f3f-52c1-418f-8169-b9fbc9506094.png" width="50%" height="50%">
 
 
 Botão sair:
 <br>
-![image](https://user-images.githubusercontent.com/87147025/172288426-1adc940f-401d-483a-855c-a2905825a843.png)
+<img src="https://user-images.githubusercontent.com/87147025/172288426-1adc940f-401d-483a-855c-a2905825a843.png" width="50%" height="50%">
+
 
 <h1>Fases</h1>
 O jogo, como dito anteriormente, foi idealizado em 8 pequenas fases que narram a trajetória de Capivarildo de volta ao seu lar. Cada fase se passa em um diferente cenário.<br>
