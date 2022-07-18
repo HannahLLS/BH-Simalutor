@@ -22,7 +22,8 @@ O jogo é idealizado para ser acessível para pessoas com deficiência visual e 
 <li>Presença de respostas visuais que indicarão a posição dos obstáculos/itens/momento da movimentação/ação corretamente executada/ação incorretamente executada</li>
 <br><br>
 <h2>Exemplo</h2>
-<img: src="image.png">
+<img width="396" alt="image" src="https://user-images.githubusercontent.com/102993778/179447887-0c335afe-f1aa-48df-8ad3-49a63fe4299e.png">
+
 
 <h1>Menu</h1>
 A tela de Menu apresenta 6 botões clicáveis sendo eles:
